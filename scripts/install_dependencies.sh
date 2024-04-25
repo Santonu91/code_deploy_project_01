@@ -1,3 +1,4 @@
 #!/bin/bash
 yum install -y httpd
-echo "Done This is Custom Print GSA"
+echo "Done This is Custom Print GSA $pwd"
+
